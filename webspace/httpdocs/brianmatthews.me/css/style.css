@@ -1,0 +1,26 @@
+@CHARSET "ISO-8859-1";
+
+body{margin:0;padding:0;border:0;font-size:12px;line-height:18px;font-family:Verdana,Arial,Helvetica,sans-serif;min-width:960px}
+
+a{text-decoration:none;color:#ff9000}
+a:hover{text-decoration:underline;color:#ff9000}
+a:visited{text-decoration:none;color:#ff9000}
+a.button{padding:0 5px;background-color:#ff9000;color:#fff}
+a.button:hover{color:#fff}
+a.visited:hover{color:#fff}
+
+#content{margin:48px auto 24px;width:400px;background:#fff}
+#left{padding:6px 10px;width:140px;float:left}
+#right{padding:6px 10px;width:220px;margin-left:160px}
+
+img.me{margin-top:0;border:0}
+
+ul.social{list-style:none;padding:0;margin-top:0}
+ul.social li{padding-left:20px}
+li.linkedin{background:url('../images/linkedin_16.png') no-repeat}
+li.rss{background:url('../images/rss_16.png') no-repeat}
+li.gmail{background:url('../images/gmail_16.png') no-repeat}
+li.skype{background:url('../images/skype_16.png') no-repeat}
+li.twitter{background:url('../images/twitter_16.png') no-repeat}
+ul.contact{list-style:none;padding:12px 0 0}
+span.contact{font-style:italic}
